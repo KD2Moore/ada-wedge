@@ -2,6 +2,8 @@ WedgeData
 *.db
 Wedgezipfiles/*
 WedgeZipofZips_Small/*
+*.sqbpro
+
 
 
 
